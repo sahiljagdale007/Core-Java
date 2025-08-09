@@ -8,5 +8,5 @@ public class abcd_inverted_pattern_14 {
             }
             System.out.println();
         }
-    }
+     }
 }
